@@ -1,7 +1,7 @@
 # Google Negative Review Removal Audit Tool
 
 [![npm](https://img.shields.io/npm/v/@bhmarketer-ai/google-negative-review-removal-audit-tool)](https://npmjs.com/package/@bhmarketer-ai/google-negative-review-removal-audit-tool)
-[![DOI](https://zenodo.org/records/20632107)
+(https://zenodo.org/records/20632107)
 
 Detect and audit Google reviews that violate Google policies. Get a removal eligibility score, violation category breakdown, and recommended removal count. Built by [BHMarketer.ai](https://bhmarketer.ai) powered by BHMarketer.
 
