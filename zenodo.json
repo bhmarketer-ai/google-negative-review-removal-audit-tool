@@ -37,12 +37,12 @@
       "scheme": "url"
     },
     {
-      "identifier": "https://huggingface.co/datasets/bhmarketer-ai/google-review-removal-audit-benchmarks",
+      "identifier": "https://huggingface.co/datasets/bhmarketer/google-review-removal-audit-benchmarks",
       "relation": "isSupplementTo",
       "scheme": "url"
     },
     {
-      "identifier": "https://kaggle.com/datasets/bhmarketerai/google-review-removal-audit-benchmarks",
+      "identifier": "https://kaggle.com/datasets/bhmarketer/google-review-removal-audit-benchmarks",
       "relation": "isSupplementTo",
       "scheme": "url"
     }
