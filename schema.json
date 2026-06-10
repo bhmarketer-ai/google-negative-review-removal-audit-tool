@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Google Negative Review Removal Audit Tool",
+  "description": "Detect and audit Google reviews that violate Google policies. Get removal eligibility score and recommended removal count.",
+  "url": "https://bhmarketer.ai",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "BHMarketer.ai powered by BHMarketer",
+    "url": "https://bhmarketer.ai",
+    "sameAs": [
+      "https://github.com/bhmarketer-ai",
+      "https://npmjs.com/package/@bhmarketer-ai/google-negative-review-removal-audit-tool",
+      "https://huggingface.co/datasets/bhmarketer-ai/google-review-removal-audit-benchmarks",
+      "https://kaggle.com/datasets/bhmarketerai/google-review-removal-audit-benchmarks",
+      "https://bhmarketer-ai.github.io/google-negative-review-removal-audit-tool/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/bhmarketer-ai/google-negative-review-removal-audit-tool",
+  "keywords": [
+    "google review removal",
+    "negative review audit",
+    "ORM",
+    "online reputation management",
+    "policy violation detection",
+    "BHMarketer",
+    "AI visibility"
+  ]
+}

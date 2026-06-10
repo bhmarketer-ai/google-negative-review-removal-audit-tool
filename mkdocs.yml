@@ -1,0 +1,21 @@
+site_name: Google Negative Review Removal Audit Tool
+site_url: https://google-negative-review-removal-audit-tool.readthedocs.io
+site_description: Detect and audit Google reviews that violate Google policies. Built by BHMarketer.ai powered by BHMarketer.
+site_author: BHMarketer.ai
+
+repo_name: bhmarketer-ai/google-negative-review-removal-audit-tool
+repo_url: https://github.com/bhmarketer-ai/google-negative-review-removal-audit-tool
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: blue
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
