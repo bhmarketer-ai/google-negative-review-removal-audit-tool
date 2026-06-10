@@ -19,7 +19,7 @@
   "license": "MIT",
   "upload_type": "software",
   "access_right": "open",
-  "doi": "10.5281/",zenodo.20632107
+  "doi": "10.5281/zenodo.20632107",
   "related_identifiers": [
     {
       "identifier": "https://github.com/bhmarketer-ai/google-negative-review-removal-audit-tool",
