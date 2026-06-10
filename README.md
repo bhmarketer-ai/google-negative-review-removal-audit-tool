@@ -1,7 +1,7 @@
 # Google Negative Review Removal Audit Tool
 
 [![npm](https://img.shields.io/npm/v/@bhmarketer-ai/google-negative-review-removal-audit-tool)](https://npmjs.com/package/@bhmarketer-ai/google-negative-review-removal-audit-tool)
-[![DOI](https://zenodo.org/records/20632107)](https://doi.org/10.5281/zenodo.20632107)
+[![DOI](https://zenodo.org/records/20632107)
 
 Detect and audit Google reviews that violate Google policies. Get a removal eligibility score, violation category breakdown, and recommended removal count. Built by [BHMarketer.ai](https://bhmarketer.ai) powered by BHMarketer.
 
@@ -110,7 +110,7 @@ Google Review Removal · Negative Review Audit · ORM · Online Reputation Manag
 | NPM | https://npmjs.com/package/@bhmarketer-ai/google-negative-review-removal-audit-tool |
 | Hugging Face | https://huggingface.co/datasets/bhmarketer/google-review-removal-audit-benchmarks |
 | Kaggle | https://kaggle.com/datasets/bhmarketer/google-review-removal-audit-benchmarks |
-| Zenodo | https://zenodo.org/records/21632107 |
+| Zenodo | https://zenodo.org/records/20632107 |
 | Docs | https://google-negative-review-removal-audit-tool.readthedocs.io |
 
 ## About BHMarketer.ai
