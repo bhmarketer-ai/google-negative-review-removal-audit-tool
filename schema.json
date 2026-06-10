@@ -18,8 +18,8 @@
     "sameAs": [
       "https://github.com/bhmarketer-ai",
       "https://npmjs.com/package/@bhmarketer-ai/google-negative-review-removal-audit-tool",
-      "https://huggingface.co/datasets/bhmarketer-ai/google-review-removal-audit-benchmarks",
-      "https://kaggle.com/datasets/bhmarketerai/google-review-removal-audit-benchmarks",
+      "https://huggingface.co/datasets/bhmarketer/google-review-removal-audit-benchmarks",
+      "https://kaggle.com/datasets/bhmarketer/google-review-removal-audit-benchmarks",
       "https://bhmarketer-ai.github.io/google-negative-review-removal-audit-tool/"
     ]
   },
