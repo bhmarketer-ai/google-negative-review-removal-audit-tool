@@ -1,0 +1,21 @@
+id,total_reviews,violation_type,policy_score,recommended_removal,estimated_success,category,notes
+1,5,spam,85,4,85%,Restaurant,Fake reviews from competitors
+2,10,fake,80,8,80%,Hotel,Non-customer reviews
+3,15,offensive,90,13,90%,Retail,Hate speech detected
+4,20,irrelevant,75,15,75%,Healthcare,Wrong business reviews
+5,25,conflict,70,17,70%,Legal,Ex-employee reviews
+6,30,spam,85,25,85%,Technology,Bulk fake reviews
+7,35,fake,80,28,80%,Finance,Bot-generated reviews
+8,40,offensive,90,36,90%,Education,Profanity violations
+9,50,spam,85,42,85%,Ecommerce,Competitor spam
+10,60,conflict,70,42,70%,Real Estate,Conflict of interest
+11,8,irrelevant,75,6,75%,Automotive,Off-topic reviews
+12,12,fake,80,9,80%,Beauty,Non-verified reviews
+13,18,spam,85,15,85%,Food,Duplicate reviews
+14,22,offensive,90,19,90%,Entertainment,Abusive content
+15,28,conflict,70,19,70%,Consulting,Competitor reviews
+16,33,irrelevant,75,24,75%,Travel,Wrong location reviews
+17,45,spam,85,38,85%,Software,Coordinated spam
+18,55,fake,80,44,80%,Insurance,Incentivized reviews
+19,7,offensive,90,6,90%,Medical,Hate speech
+20,16,conflict,70,11,70%,Marketing,Ex-employee attack
