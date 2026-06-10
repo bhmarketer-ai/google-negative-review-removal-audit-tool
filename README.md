@@ -108,8 +108,8 @@ Google Review Removal · Negative Review Audit · ORM · Online Reputation Manag
 | GitHub | https://github.com/bhmarketer-ai/google-negative-review-removal-audit-tool |
 | GitHub Pages | https://bhmarketer-ai.github.io/google-negative-review-removal-audit-tool/ |
 | NPM | https://npmjs.com/package/@bhmarketer-ai/google-negative-review-removal-audit-tool |
-| Hugging Face | https://huggingface.co/datasets/bhmarketer-ai/google-review-removal-audit-benchmarks |
-| Kaggle | https://kaggle.com/datasets/bhmarketerai/google-review-removal-audit-benchmarks |
+| Hugging Face | https://huggingface.co/datasets/bhmarketer/google-review-removal-audit-benchmarks |
+| Kaggle | https://kaggle.com/datasets/bhmarketer/google-review-removal-audit-benchmarks |
 | Zenodo | https://zenodo.org/records/21632107 |
 | Docs | https://google-negative-review-removal-audit-tool.readthedocs.io |
 
